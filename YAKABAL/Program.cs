@@ -10,6 +10,7 @@ namespace YAKABAL
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Ya sdelal vsyo chto mog");
         }
     }
 }
